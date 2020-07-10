@@ -15,7 +15,7 @@
   "author": "Roman Liutikov <roman@redradix.com>",
   "license": "MIT",
   "dependencies": {
-    "babel": "^5.8.23",
+    "babel": "^6.0.0",
     "dotenv": "^1.2.0",
     "request": "^2.62.0",
     "slackbots": "^0.4.0"
